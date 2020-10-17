@@ -1,0 +1,52 @@
+
+Number of items: 4
+
+
+Total cost: 1331
+
+
+Total tax: 31
+
+
+Cost + Tax: 1362
+
+Poppy's Afternnon Tea Shoppe
+------------------------------
+Peanut Butter Fudge	8.98
+2.25	@	3.99
+Vanilla Ice Cream	1.05
+Hot Fudge with 
+Choc. Chip Ice Cream	1.95
+Oatmeal Raisin Cookies	1.33
+4	@	3.99/dz
+
+Tax	0.31
+Total Cost	13.31
+
+Number of items: 6
+
+
+Total cost: 1192
+
+
+Total tax: 28
+
+
+Cost + Tax: 1220
+
+Poppy's Afternnon Tea Shoppe
+------------------------------
+Strawberry Ice Cream	1.45
+Caramel with 
+Vanilla Ice Cream	1.55
+Gummy Worms	1.18
+1.33	@	0.89
+Chocolate Chip Cookies	1.33
+4	@	3.99/dz
+Salt Water Taffy	3.14
+1.5	@	2.09
+Candy Corn	3.27
+3.0	@	1.09
+
+Tax	0.28
+Total Cost	11.92
